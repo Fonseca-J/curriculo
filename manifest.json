@@ -1,0 +1,13 @@
+{
+    "name": "curriculo",
+    "start_url": "/curriculo",
+    "display": "standalone",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "img/curriculo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
